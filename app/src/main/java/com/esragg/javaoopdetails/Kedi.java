@@ -28,4 +28,9 @@ public class Kedi implements Egitim{
         System.out.println("Kediler egitilemez");
         return false;
     }
+
+    @Override
+    public void test() {
+
+    }
 }
